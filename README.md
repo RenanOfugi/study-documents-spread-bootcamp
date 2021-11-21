@@ -1,2 +1,3 @@
-# study-documents-spread-bootcamp
-Bootcamp Spread DIO Study Documents
+# Study Documents
+
+Este repositório contém estudos e resoluções das atividades referentes ao Spread Bootcamp
